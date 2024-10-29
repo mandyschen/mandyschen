@@ -12,13 +12,13 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Michig
 ## 🌱 Skills & Technologies
 ### Languages
 - **C++**  
-- **Python** (scikit-learn, OpenCV, pandas, numpy, scipy)
+- **Python** (OpenCV, pandas, numpy, scipy)
 - **JavaScript** (React, Node.js, Bootstrap)
 - **C#** (Unity)
 - **SQL**
 
 ### Frameworks & Tools
-- **Computer Vision**: TensorFlow, PyTorch, scikit-learn, numpy
+- **Computer Vision**: TensorFlow, PyTorch, OpenCV, numpy
 - **Backend Development**: ASP.NET, Flask, REST APIs, ElasticSearch
 - **Testing & QA**: Playwright, Postman
 - **Game Development**: Unity, C#
