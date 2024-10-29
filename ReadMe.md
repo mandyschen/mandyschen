@@ -1,13 +1,13 @@
 # Hi, I'm Mandy Chen. 👋
 
-Welcome to my GitHub! I'm a Computer Science student at the University of Michigan with a passion for software development. I enjoy diving into challenging projects and finding ways to apply my skills to meaningful technology solutions. When I'm not coding, you'll find me exploring art and game development.
+Welcome to my GitHub! I'm a Computer Science student at the University of Michigan with a passion for software development. I enjoy diving into challenging projects and finding ways to apply my skills to meaningful technology solutions. When I'm not coding, you'll find me on my iPad creating art!
 
 ---
 
 ## 👾 Current Projects & Interests
 - **Computer Vision & Image Processing**: Building computer vision applications with Python, OpenCV, and cv2.
+- **Web Applications**: Working with technologies like React and Flask to build engaging web applications.
 - **Game Development**: Developing web games using Pygame and p5.js. Currently working on a game in Unity!
-- **Web Applications**: Working with front-end technologies like React to build engaging web applications.
 
 ## 🌱 Skills & Technologies
 ### Languages
@@ -20,14 +20,14 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Michig
 ### Frameworks & Tools
 - **Computer Vision**: TensorFlow, PyTorch, scikit-learn, numpy
 - **Backend Development**: ASP.NET, Flask, REST APIs, ElasticSearch
-- **Testing & QA**: Playwright, Postman, SQL
+- **Testing & QA**: Playwright, Postman
 - **Game Development**: Unity, C#
 
 ---
 
 ## 🚀 Experience Highlights
 ### Internships & Fellowships
-- **Software Engineering Intern @ Hagerty**: Developed automated testing systems and optimized backend services for enhanced data security and efficiency.
+- **Software Engineering Intern @ Hagerty**: Developed automated testing systems and optimized backend services for enhanced user experience, efficiency, and accuracy.
 - **MLH Software Engineering Fellow @ Meta**: Contributed to open-source projects with Meta, focusing on enhancing the usability of translation services and building features that improve debugging processes.
 
 ### Learning Experiences
