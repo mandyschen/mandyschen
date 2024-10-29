@@ -31,8 +31,8 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Michig
 
 ## 📫 How to Reach Me
 I'm always excited to connect with others interested in tech, machine learning, computer vision, and game development! You can reach me via:
-- [LinkedIn](https://www.linkedin.com/in/mandy-chen06/)
-- [Email](mailto:mandyschen06@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mandy-chen06/)
+[![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:mandyschen06@gmail.com)
 
 ---
 
