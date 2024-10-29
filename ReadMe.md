@@ -13,16 +13,17 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Michig
 ## 🌱 Skills & Technologies
 ### Languages
 - **C++**  
-- **Python** (OpenCV, pandas, numpy, scipy)
-- **JavaScript** (React, Node.js, Bootstrap)
-- **C#** (Unity)
+- **Python**
+- **JavaScript**
+- **C#**
 - **SQL**
 
 ### Frameworks & Tools
 - **Computer Vision**: TensorFlow, PyTorch, OpenCV, numpy
+- **Web Systems**: React, Node.js, Bootstrap
 - **Backend Development**: ASP.NET, Flask, REST APIs, ElasticSearch
 - **Testing & QA**: Playwright, Postman
-- **Game Development**: Unity, C#
+- **Game Development**: Unity
 
 ---
 
