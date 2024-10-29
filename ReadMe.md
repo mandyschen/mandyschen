@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Michig
 ### Frameworks & Tools
 - **Computer Vision**: TensorFlow, PyTorch, scikit-learn, numpy
 - **Backend Development**: ASP.NET, Flask, REST APIs, ElasticSearch
-- **Testing & QA**: Playwright, Postman
+- **Testing & QA**: Playwright, Postman, SQL
 - **Game Development**: Unity, C#
 
 ---
