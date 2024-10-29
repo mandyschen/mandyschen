@@ -36,9 +36,6 @@ I'm always excited to connect with others interested in tech, machine learning, 
 
 ---
 
-## 📈 GitHub Stats
-![Mandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mandyschen&show_icons=true&theme=radical)
-
 ## ⚡ Fun Facts
 - 🎮 I love building games! I’ve created a collection of monkey-themed games and a Cuphead-style train game for my younger brother.
 - 🐥 I have an art account where I draw little ducks!
