@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Michig
 ---
 
 ## 👾 Current Projects & Interests
-- **Computer Vision & Image Processing**: Building computer vision applications with Python, OpenCV, and cv2.
+- **Computer Vision**: Building computer vision applications with Python, OpenCV, and cv2.
 - **Web Applications**: Working with technologies like React and Flask to build engaging web applications.
 - **Distributed Systems**: Exploring and analyzing complex tools like the Google File System and MapReduce.
 - **Design**: Finding ways to help the community around me with good design and UI/UX decisions.
