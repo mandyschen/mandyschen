@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Michig
 - **Distributed Systems**: Exploring and analyzing complex tools like the Google File System and MapReduce.
 - **Design**: Finding ways to help the community around me with good design and UI/UX decisions.
 
-## Skills & Technologies
+## Skills
 ### Languages
 - **C++**  
 - **Python**
@@ -49,5 +49,3 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Michig
 ## Fun Facts
 - I love building games! I’ve created a collection of monkey-themed games (GamesPortfolio) and a Cuphead-style train game for my younger brother (ConfusionAndDelay).
 - I have an art account where I draw little ducks! I post process videos as well as finished pieces.
-
-Thanks for stopping by!
