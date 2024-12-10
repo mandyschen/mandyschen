@@ -40,9 +40,7 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Michig
 - **Tech for Social Good**: Managed projects aimed at leveraging technology for impactful community solutions.
 - **Zeta Pi**: Participated in a technology fraternity with the goal of creating a welcoming learning environment with a shared passion of technology.
 
-## How to Reach Me
-I'm always excited to connect with others! You can reach me via:  
-  
+## Contact Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mandy-chen06/)
 [![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:mandyschen06@gmail.com)
 
