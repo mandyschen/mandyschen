@@ -10,6 +10,8 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Michig
 - **Distributed Systems**: Exploring and analyzing complex tools like the Google File System and MapReduce.
 - **Design**: Finding ways to help the community around me with good design and UI/UX decisions.
 
+---
+
 ## Skills
 ### Languages
 - **C++**  
